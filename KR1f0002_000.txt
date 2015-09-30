@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經
-#+DATE: 2015-09-23 09:40:46
+#+DATE: 2015-09-10 22:50:18.684940
+#+PROPERTY: ID KR1f0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0007-000孝經-序.
 <pb:KR1f0002_SBCK_000-1a>¶
 孝經序¶
 　　唐玄宗皇帝御製¶
@@ -37,4 +41,3 @@
 別而百行之源不殊是以一章之中凡有數¶
 句一句之內意有兼明具載則文繁略之又¶
 義闕今存于䟽用廣發揮¶
-

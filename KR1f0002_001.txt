@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經
-#+DATE: 2015-09-23 09:40:46
+#+DATE: 2015-09-10 22:50:18.714459
+#+PROPERTY: ID KR1f0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0007-001孝經-卷第一.
 <pb:KR1f0002_SBCK_001-1a>¶
 孝經一卷¶
 開宗明義章第一¶
@@ -254,4 +258,3 @@
 (之/情)¶
 孝經一卷¶
 <pb:KR1f0002_SBCK_001-15a>¶
-
